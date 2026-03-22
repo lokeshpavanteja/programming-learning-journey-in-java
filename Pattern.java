@@ -17,8 +17,8 @@ public class Pattern {
 
         //patterns 2
         System.out.println("The reverse pattern for that one is :");
-        for(int i = n ; i >= 1 ; i--){
-            for(int j = 1 ; j <= i ; j++){
+        for(int i = n ; i >= 1 ; i--){         // printing number of rows
+            for(int j = 1 ; j <= i ; j++){     // printing number of stars
                 System.out.print(" * ");
             }
             System.out.println();
