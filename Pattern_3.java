@@ -1,3 +1,5 @@
+// Full Pyramid
+
 import java.util.Scanner;
 public class Pattern_3 {
     public static void main(String args[]){
@@ -19,3 +21,15 @@ public class Pattern_3 {
         sc.close();
     }
 }
+
+/*
+output:
+if n = 5
+
+    *
+   ***
+  *****
+ *******
+*********
+
+*/
