@@ -1,3 +1,5 @@
+// Inverted Full Pyramid
+
 import java.util.Scanner;
 
 public class Pattern_4 {
@@ -18,3 +20,15 @@ public class Pattern_4 {
         }
     }
 }
+
+/*
+output:
+if n = 5
+
+*********
+ *******
+  *****
+   ***
+    *
+    
+*/
