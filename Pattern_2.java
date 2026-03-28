@@ -1,3 +1,5 @@
+// Right-Aligned Triangle
+
 import java.util.Scanner;
 public class Pattern_2 {
     public static void main(String[] args) {
@@ -18,3 +20,14 @@ public class Pattern_2 {
 
     }
 }
+
+/*   
+output:
+if n = 5
+    *
+   **
+  ***
+ ****
+*****
+
+*/
