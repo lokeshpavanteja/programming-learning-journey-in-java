@@ -1,3 +1,5 @@
+// Hollow Square
+
 import java.util.Scanner;
 public class Pattern_6 {
     public static void main(String[] args) {
@@ -20,3 +22,15 @@ public class Pattern_6 {
         sc.close();
     }
 }
+
+/*
+output:
+if n = 5
+
+*****
+*   *
+*   *
+*   *
+*****
+
+*/
