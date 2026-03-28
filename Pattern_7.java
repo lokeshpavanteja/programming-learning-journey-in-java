@@ -1,3 +1,4 @@
+// Hollow Right Triangle
 
 import java .util.Scanner;
 public class Pattern_7 {
@@ -22,3 +23,15 @@ public class Pattern_7 {
         sc.close();
     }
 }
+
+/*
+output:
+if n = 5
+
+*
+**
+* *
+*  *
+*****
+
+*/
