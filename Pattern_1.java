@@ -1,3 +1,5 @@
+//Square Star Pattern
+
 import java.util.Scanner;
 
 public class Pattern_1 {
@@ -16,3 +18,9 @@ public class Pattern_1 {
         sc.close();
     }
 }
+
+//output for n = 4
+/*      ****
+        ****
+        ****
+        ****     */
